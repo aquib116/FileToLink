@@ -6,7 +6,7 @@
 class script(object):
     START_TXT = """<b>Hello {} 👋, My Name Is <a href=https://t.me/{}>{}</a>
     
-✏️ I Am A Advance File Stream Bot With Multiple Player Support . Best Ui Performance.
+✏️ I Am A Advance File Stream and File Download Bot With Multiple Player Support . Best Ui Performance.
 
 Now Send Me A Media To See Magic ✨</b>"""
 
